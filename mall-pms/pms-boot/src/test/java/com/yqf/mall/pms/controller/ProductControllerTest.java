@@ -1,9 +1,9 @@
 package com.yqf.mall.pms.controller;
 
-import com.youlai.common.result.ResultCode;
-import com.youlai.mall.pms.pojo.dto.app.ProductFormDTO;
+import com.yqf.common.result.ResultCode;
+import com.yqf.mall.pms.pojo.dto.app.ProductFormDTO;
 import com.yqf.mall.pms.controller.admin.SpuController;
-import com.youlai.mall.pms.pojo.entity.PmsSpec;
+import com.yqf.mall.pms.pojo.entity.PmsSpec;
 import com.yqf.mall.pms.service.IPmsSpuAttributeValueService;
 import com.yqf.mall.pms.service.IPmsSpecService;
 import com.yqf.mall.pms.service.IPmsSpuService;

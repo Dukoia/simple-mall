@@ -1,8 +1,8 @@
 package com.yqf.mall.oms.controller.app;
 
 import com.github.xiaoymin.knife4j.annotations.ApiOperationSupport;
-import com.youlai.common.result.Result;
-import com.youlai.mall.oms.pojo.vo.CartVO;
+import com.yqf.common.result.Result;
+import com.yqf.mall.oms.pojo.vo.CartVO;
 import com.yqf.mall.oms.service.ICartService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiImplicitParam;

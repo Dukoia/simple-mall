@@ -17,12 +17,13 @@
         <dependency>
             <groupId>com.yqf</groupId>
             <artifactId>common-core</artifactId>
+            <version>${system.version}</version>
         </dependency>
 
         <dependency>
             <groupId>com.yqf</groupId>
             <artifactId>ums-api</artifactId>
-            <version>1.0.0</version>
+            <version>${system.version}</version>
         </dependency>
 
         <dependency>

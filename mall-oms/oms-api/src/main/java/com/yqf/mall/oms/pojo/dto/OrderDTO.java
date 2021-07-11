@@ -2,7 +2,7 @@ package com.yqf.mall.oms.pojo.dto;
 
 import com.yqf.mall.oms.pojo.entity.OmsOrder;
 import com.yqf.mall.oms.pojo.entity.OmsOrderItem;
-import com.youlai.mall.ums.pojo.dto.MemberDTO;
+import com.yqf.mall.ums.pojo.dto.MemberDTO;
 import lombok.Data;
 import lombok.experimental.Accessors;
 

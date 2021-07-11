@@ -4,11 +4,11 @@ import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.IService;
 
-import com.youlai.mall.oms.pojo.entity.OmsOrder;
-import com.youlai.mall.oms.pojo.dto.OrderConfirmDTO;
-import com.youlai.mall.oms.pojo.vo.OrderConfirmVO;
-import com.youlai.mall.oms.pojo.vo.OrderSubmitVO;
-import com.youlai.mall.oms.pojo.dto.OrderSubmitDTO;
+import com.yqf.mall.oms.pojo.entity.OmsOrder;
+import com.yqf.mall.oms.pojo.dto.OrderConfirmDTO;
+import com.yqf.mall.oms.pojo.vo.OrderConfirmVO;
+import com.yqf.mall.oms.pojo.vo.OrderSubmitVO;
+import com.yqf.mall.oms.pojo.dto.OrderSubmitDTO;
 
 /**
  * 订单详情表

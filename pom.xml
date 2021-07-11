@@ -210,37 +210,37 @@
             </dependency>
 
             <dependency>
-                <groupId>com.system</groupId>
+                <groupId>com.yqf</groupId>
                 <artifactId>common-core</artifactId>
                 <version>${system.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.system</groupId>
+                <groupId>com.yqf</groupId>
                 <artifactId>common-es</artifactId>
                 <version>${system.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.system</groupId>
+                <groupId>com.yqf</groupId>
                 <artifactId>common-mybatis</artifactId>
                 <version>${system.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.system</groupId>
+                <groupId>com.yqf</groupId>
                 <artifactId>common-rabbitmq</artifactId>
                 <version>${system.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.system</groupId>
+                <groupId>com.yqf</groupId>
                 <artifactId>common-redis</artifactId>
                 <version>${system.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.system</groupId>
+                <groupId>com.yqf</groupId>
                 <artifactId>common-web</artifactId>
                 <version>${system.version}</version>
             </dependency>

@@ -1,6 +1,6 @@
 package com.yqf.mall.oms.service;
 
-import com.youlai.mall.oms.pojo.vo.CartVO;
+import com.yqf.mall.oms.pojo.vo.CartVO;
 
 import java.util.List;
 

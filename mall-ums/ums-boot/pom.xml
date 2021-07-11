@@ -81,21 +81,30 @@
         <dependency>
             <groupId>com.yqf</groupId>
             <artifactId>common-mybatis</artifactId>
+            <version>${system.version}</version>
         </dependency>
 
         <dependency>
             <groupId>com.yqf</groupId>
             <artifactId>common-web</artifactId>
+            <version>${system.version}</version>
         </dependency>
 
         <dependency>
             <groupId>com.yqf</groupId>
             <artifactId>common-redis</artifactId>
+            <version>${system.version}</version>
         </dependency>
 
         <dependency>
             <groupId>com.yqf</groupId>
             <artifactId>common-log</artifactId>
+            <version>${system.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.yqf</groupId>
+            <artifactId>ums-api</artifactId>
+            <version>1.0.0</version>
         </dependency>
 
 

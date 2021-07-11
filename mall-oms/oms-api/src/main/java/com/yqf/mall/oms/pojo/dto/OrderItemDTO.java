@@ -1,6 +1,6 @@
 package com.yqf.mall.oms.pojo.dto;
 
-import com.youlai.common.base.BaseVO;
+import com.yqf.common.base.BaseVO;
 import lombok.*;
 
 /**

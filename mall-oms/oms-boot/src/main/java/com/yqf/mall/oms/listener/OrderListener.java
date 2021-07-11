@@ -3,7 +3,7 @@ package com.yqf.mall.oms.listener;
 import com.rabbitmq.client.Channel;
 import com.yqf.mall.oms.service.IOrderItemService;
 import com.yqf.mall.oms.service.IOrderService;
-import com.youlai.mall.pms.api.SkuFeignClient;
+import com.yqf.mall.pms.api.SkuFeignClient;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.core.Message;

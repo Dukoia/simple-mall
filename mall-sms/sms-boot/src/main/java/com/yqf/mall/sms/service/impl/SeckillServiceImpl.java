@@ -4,7 +4,7 @@ import cn.hutool.core.collection.CollectionUtil;
 import cn.hutool.core.date.DateTime;
 import cn.hutool.core.date.DateUtil;
 import cn.hutool.core.util.RandomUtil;
-import com.yqf.common.redis.utils.RedisUtils;
+
 import com.yqf.common.web.util.BeanMapperUtils;
 import com.yqf.mall.sms.pojo.domain.SmsSeckillSession;
 import com.yqf.mall.sms.pojo.domain.SmsSeckillSkuRelation;
@@ -13,6 +13,7 @@ import com.yqf.mall.sms.pojo.vo.SmsSeckillSkuVO;
 import com.yqf.mall.sms.service.ISeckillService;
 import com.yqf.mall.sms.service.ISmsSeckillSessionService;
 import com.yqf.mall.sms.service.ISmsSeckillSkuRelationService;
+import com.yqf.redis.utils.RedisUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.redisson.api.RSemaphore;
 import org.redisson.api.RedissonClient;

@@ -1,6 +1,6 @@
 package com.yqf.mall.oms.mapper;
 
-import com.youlai.mall.oms.pojo.entity.OmsOrderItem;
+import com.yqf.mall.oms.pojo.entity.OmsOrderItem;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;

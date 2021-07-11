@@ -1,8 +1,8 @@
 package com.yqf.mall.oms;
 
 
-import com.youlai.mall.pms.api.SkuFeignClient;
-import com.youlai.mall.ums.api.MemberFeignClient;
+import com.yqf.mall.pms.api.SkuFeignClient;
+import com.yqf.mall.ums.api.MemberFeignClient;
 import org.springframework.amqp.rabbit.annotation.EnableRabbit;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

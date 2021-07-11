@@ -1,9 +1,9 @@
 package com.yqf.mall.oms.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.youlai.common.web.util.JwtUtils;
+import com.yqf.common.web.util.JwtUtils;
 import com.yqf.mall.oms.mapper.OrderLogMapper;
-import com.youlai.mall.oms.pojo.entity.OmsOrderLog;
+import com.yqf.mall.oms.pojo.entity.OmsOrderLog;
 import com.yqf.mall.oms.service.IOrderLogService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

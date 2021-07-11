@@ -1,7 +1,7 @@
 package com.yqf.mall.ums.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.youlai.mall.ums.pojo.entity.UmsAddress;
+import com.yqf.mall.ums.pojo.entity.UmsAddress;
 import org.apache.ibatis.annotations.Select;
 import org.apache.ibatis.annotations.Mapper;
 

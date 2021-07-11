@@ -1,8 +1,8 @@
 package com.yqf.mall.sms.shedule;
 
 import cn.hutool.core.collection.CollUtil;
-import com.youlai.mall.sms.pojo.domain.SmsCouponTemplate;
-import com.youlai.mall.sms.pojo.vo.TemplateRuleVO;
+import com.yqf.mall.sms.pojo.domain.SmsCouponTemplate;
+import com.yqf.mall.sms.pojo.vo.TemplateRuleVO;
 import com.yqf.mall.sms.service.ISmsCouponTemplateService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

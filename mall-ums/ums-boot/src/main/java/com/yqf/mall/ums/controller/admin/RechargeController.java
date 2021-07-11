@@ -2,10 +2,10 @@ package com.yqf.mall.ums.controller.admin;
 
 import cn.hutool.json.JSONObject;
 import cn.hutool.json.JSONUtil;
-import com.youlai.common.result.Result;
-import com.youlai.mall.ums.pojo.entity.UmsMember;
-import com.youlai.mall.ums.pojo.dto.RechargeDTO;
-import com.youlai.mall.ums.pojo.dto.ResultPayDTO;
+import com.yqf.common.result.Result;
+import com.yqf.mall.ums.pojo.entity.UmsMember;
+import com.yqf.mall.ums.pojo.dto.RechargeDTO;
+import com.yqf.mall.ums.pojo.dto.ResultPayDTO;
 import com.yqf.mall.ums.service.IUmsMemberService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

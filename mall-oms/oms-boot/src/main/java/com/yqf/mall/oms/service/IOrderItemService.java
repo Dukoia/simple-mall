@@ -1,7 +1,7 @@
 package com.yqf.mall.oms.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.youlai.mall.oms.pojo.entity.OmsOrderItem;
+import com.yqf.mall.oms.pojo.entity.OmsOrderItem;
 
 
 /**

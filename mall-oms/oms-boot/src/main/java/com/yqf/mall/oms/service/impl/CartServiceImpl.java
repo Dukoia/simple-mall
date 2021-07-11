@@ -1,11 +1,11 @@
 package com.yqf.mall.oms.service.impl;
 
-import com.youlai.common.web.util.JwtUtils;
+import com.yqf.common.web.util.JwtUtils;
 import com.yqf.mall.oms.constant.OmsConstants;
-import com.youlai.mall.oms.pojo.vo.CartVO;
+import com.yqf.mall.oms.pojo.vo.CartVO;
 import com.yqf.mall.oms.service.ICartService;
-import com.youlai.mall.pms.api.SkuFeignClient;
-import com.youlai.mall.pms.pojo.dto.SkuDTO;
+import com.yqf.mall.pms.api.SkuFeignClient;
+import com.yqf.mall.pms.pojo.dto.SkuDTO;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.redis.core.BoundHashOperations;

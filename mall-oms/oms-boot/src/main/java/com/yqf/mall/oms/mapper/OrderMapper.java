@@ -2,7 +2,7 @@ package com.yqf.mall.oms.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.youlai.mall.oms.pojo.entity.OmsOrder;
+import com.yqf.mall.oms.pojo.entity.OmsOrder;
 import org.apache.ibatis.annotations.*;
 
 import java.util.List;
@@ -39,7 +39,7 @@ public interface OrderMapper extends BaseMapper<OmsOrder> {
             "</script>")
     @Results({
             @Result(id = true, column = "id", property = "id"),
-            @Result(property = "orderItems",column = "id",many = @Many(select="com.youlai.mall.oms.mapper.OrderItemMapper.listByOrderId"))
+            @Result(property = "orderItems",column = "id",many = @Many(select="com.yqf.mall.oms.mapper.OrderItemMapper.listByOrderId"))
     })
     List<OmsOrder> list(Page<OmsOrder> page, OmsOrder order);
 }

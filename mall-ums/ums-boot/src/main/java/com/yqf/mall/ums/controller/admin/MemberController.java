@@ -5,9 +5,9 @@ import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.core.conditions.update.LambdaUpdateWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.youlai.common.enums.QueryModeEnum;
-import com.youlai.common.result.Result;
-import com.youlai.mall.ums.pojo.entity.UmsMember;
+import com.yqf.common.enums.QueryModeEnum;
+import com.yqf.common.result.Result;
+import com.yqf.mall.ums.pojo.entity.UmsMember;
 import com.yqf.mall.ums.service.IUmsMemberService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiImplicitParam;
@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Arrays;
 
-import static com.youlai.common.constant.GlobalConstants.STATUS_YES;
+import static com.yqf.common.constant.GlobalConstants.STATUS_YES;
 
 @Api(tags = "【系统管理】会员管理")
 @RestController("AdminMemberController")
